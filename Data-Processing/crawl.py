@@ -16,4 +16,4 @@ def merge_csv_remove_duplicates(file1, file2, output_file):
     print(f"Merged CSV saved to {output_file}")
 
 # Ví dụ sử dụng
-merge_csv_remove_duplicates("file1.csv", "file2.csv", "merged_output.csv")
+merge_csv_remove_duplicates("file1.csv", "file2.csv", "restaurant.csv")
